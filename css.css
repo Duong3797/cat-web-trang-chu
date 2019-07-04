@@ -121,6 +121,10 @@ height: 61px;
     padding: 9px;
     text-align: center;
 }
+.in-circle h3{
+    margin-top: 3px;
+    padding-left: 5px;
+}
 
 .rounded-pill.button:hover {
     background-color: #ff3366;
