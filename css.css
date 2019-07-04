@@ -1,29 +1,29 @@
 #body {
-    font-family: 'Roboto';
+    font-family: Roboto,Arial, Helvetica, sans-serif;
 }
 
 .navbar-nav {
     padding-top: 16px;
     padding-left: 8%;
 }
-.navbar-nav  .hover-a:hover {
+.navbar-nav.hover-a:hover {
     background-color: white;
     border-bottom: 3px solid #E8539D;
 }
-.navbar-nav .login:hover{
+.navbar-nav.login:hover {
     background-color: #f2f2f2;
 }
-.navbar-nav .register:hover{
+.navbar-nav.register:hover {
     background-color: #2eb8b5;
 }
-.register{
+.register {
     margin-left: 10px;
 }
-.navbar{
+.navbar {
     margin-bottom: 100px;
     border-bottom: 1px solid #E1E8EE;
 }
-.icon-bar{
+.icon-bar {
  background-color: black;
 }
 .login {
@@ -32,15 +32,13 @@
     color: #7F8FA4;
     text-align: center;
 }
-.bell{
+.bell {
     transform: translate3d(13px, -3px, 10px);
 }
-
 .login:hover {
-
 color: #7F8FA4;
 }
-.register{
+.register {
     border: 2px solid #E1E8EE;
     border-radius: 7px;
     color: white;
@@ -49,28 +47,26 @@ color: #7F8FA4;
     text-align: center;
     padding: 13px;
 }
-.register:hover{
+.register:hover {
     color: white;
 }
-.navbar-collapse ul li{
+.navbar-collapse ul li {
 font-weight: bold;
 }
-.hover-a{
+.hover-a {
 color: #7F8FA4;
 height: 61px;
 }
-.hover-a:hover{
+.hover-a:hover {
     background-color: white;
     color: #334150;
 }
 .hover-a:hover .navbar-collapse ul li {
     border-bottom: 1px solid red;
-  
 }
-.navbar-header a{
+.navbar-header a {
     padding-left: 100px;
 }
-
 .left-letters {
     font-size: 16px;
     color: #7F8FA4;
@@ -110,7 +106,6 @@ height: 61px;
     padding: 9px;
     text-align: center;
 }
-
 .button-ver2 {
     width: 100%;
     background-color: #FF6289;
@@ -132,26 +127,20 @@ height: 61px;
     text-decoration: none;
     color: white;
 }
-
 .left-content {
     font-size: 20px;
     margin-top: 70px;
 }
-
 .stopwatch {
     text-align: center;
     margin-top: 150px;
 }
-
 .dropdown-toggle {
     background-color: white;
-
 }
-
 .btn-primary {
     border-radius: 26px;
 }
-
 .dropdown button {
     width: 100%;
     padding-bottom: 13px;
@@ -163,25 +152,20 @@ height: 61px;
     margin-top: 20px;
     color: #7F8FA4;
 }
-
 .dropdown button span.caret {
     margin-left: 85px;
 }
-
 .words-header-section3 {
     color: #7F8FA4;
     font-size: 17px;
     text-align: center;
 }
-
 .section3 h3 {
     text-align: center;
 }
-
 .icon-header {
     text-align: center;
 }
-
 .box {
     transition: box-shadow .3s;
     border-radius: 10px;
@@ -191,33 +175,26 @@ height: 61px;
     margin-bottom: 15px;
     height: 300px;
 }
-
-
 .box:hover {
     box-shadow: 0 0 11px rgba(33, 33, 33, .2);
 }
-
 .section3 .box-header {
     font-weight: bold;
     font-size: 15px;
     padding-top: 41px;
 }
-
 .section3 .box-content {
     color: #7F8FA4;
     font-size: 14px;
 }
-
 .section3 .XCT {
     font-size: 15px;
     font-weight: bold;
     text-decoration: none;
 }
-
 .section3 .XCT a {
     color: #30BEBC;
 }
-
 .section3 .XCT a:hover {
     color: #FF6289;
 }
@@ -225,32 +202,25 @@ height: 61px;
 .box-info {
     text-align: center;
 }
-
 .section3 .col-lg-4 {
     padding: 0px 7px;
 }
-
 .section3 .col-lg-12 {
     margin-bottom: 25px;
 }
-
 .QTBT {
     text-align: center;
     margin-bottom: 40px;
 }
-
 .in-circle {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-bottom: 20px;
-
 }
-
 .in-circle span {
     padding-left: 20px;
 }
-
 .section4 .box {
     transition: box-shadow .3s;
     border-radius: 10px;
@@ -258,27 +228,18 @@ height: 61px;
     background: #fff;
     background-color: #FBFCFD;
     margin-bottom: 15px;
-
-
 }
-
-
 .section4 .box img {
-
     padding-bottom: 20px;
 }
-
-
 .app-row {
     margin-top: 140px;
     text-align: center;
 }
-
 .thumnail {
     display: inline-flex;
     margin-top: 20px;
 }
-
 #Footer {
     background-color: #30BEBC;
     height: 390;
@@ -296,15 +257,12 @@ height: 61px;
   
     padding-bottom: 10px;
 }
-
 #Box-Footer {
     padding: 30px 30px;
 }
-
 #Box-Footer li {
     padding-bottom: 8px;
 }
-
 #Footer a {
     color: white;
 }
@@ -313,30 +271,29 @@ height: 61px;
     padding-left: 20px;
     padding-bottom: 10px;
 }
-
 .inso-logo {
     padding-bottom: 10px;
 }
-
 #Lienhe {
     padding-left: 20px;
 }
-
 .Head-center {
     height: 90px;
     padding-left: 20px;
 }
-
+.step-plane
+{
+    width: 64%;
+    margin: 0 auto;
+}
 .Head-center img {
     padding-top: 20px;
 }
-
 .LH-content {
     float: right;
     width: 89%;
     padding-right: 62px;
 }
-
 .telep {
     padding-left: 20px;
 }
@@ -354,7 +311,13 @@ height: 61px;
 .chronometer {
     width: 30%;
 }
-
+.BHMB{
+    width: 100%;
+    
+}
+.choose {
+    width: 100%;
+}
 
 
 .section3 .box .love {
@@ -394,9 +357,7 @@ height: 61px;
     text-align: center;
     margin-top: 90px;
 }
-.choose{
-    width: 68%;
-}
+
 .give{
     width: 84%;
 }
@@ -560,7 +521,12 @@ background-color: #ff4d79;
 .hover-a {
     color: #7F8FA4;
      height: auto; 
-}                                    
+}        
+.section3 .box-header {
+    font-weight: bold;
+    font-size: 15px;
+    padding-top: 15px;
+}                            
 }     
 @media (min-width: 768px) {
     .navbar-brand>img {
@@ -664,8 +630,6 @@ background-color: #ff4d79;
         color: #7F8FA4;
          height: 61px; 
     }
-    
-    
 }
 @media (min-width: 1200px){
     .appstore {
